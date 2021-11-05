@@ -107,7 +107,7 @@
 <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthprabhu2&layout=compact&hide=html&theme=merko" width="700" />
  
  ### Github stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nishanthprabhu2&theme=dark" width="700">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nishanthprabhu2&theme=dark" width="350"> <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=nishanthprabhu2&count_private=true&show_icons=true&theme=radical" width="350"/>
 
 ### Views:
 
@@ -115,7 +115,7 @@
 
   
 
-<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=nishanthprabhu2&count_private=true&show_icons=true&theme=radical" width="700"/>
+
 
 <br/>
 
