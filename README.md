@@ -109,9 +109,9 @@
  ### Github stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishanthprabhu2&theme=dark" width="700">
 
-Views:
+### Views:
 
-<img  align="center"  src="https://profile-counter.glitch.me/{nishanthprabhu2}/count.svg"/>
+<img  align="center"  src="https://profile-counter.glitch.me/{nishanthprabhu2}/count.svg" width="700"/>
 
   
 
