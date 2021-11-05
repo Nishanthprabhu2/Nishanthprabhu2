@@ -117,7 +117,8 @@ Views:
 <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=nishanthprabhu2&count_private=true&show_icons=true&theme=radical" width="700"/>
 
 <br/>
-### Watch my contribution graph get eaten by the snake 🐍
+
+###  Watch my contribution graph get eaten by the snake 🐍
 
 <!-- platane/snk works, it just puts it on a new branch -->
 ![nishanthprabhu2 snake gif](https://github.com/Nishanthprabhu2/Nishanthprabhu2/blob/output/github-contribution-grid-snake.gif)
