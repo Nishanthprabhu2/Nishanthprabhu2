@@ -3,7 +3,7 @@
 
   
 
-## I'm a frontend developer and learner.
+## I'm a frontend developer and a learner.
 
   
 
