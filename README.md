@@ -7,7 +7,7 @@
 
   
 
-- 🌱 I’m currently learning MERN stack.
+- 🌱 I’m a Javascript Enthusiast
 
 - 💻 Senior Frontend Dev at <a  href="https://www.linkedin.com/company/glassbeam-inc">Glassbeam </a>
 
