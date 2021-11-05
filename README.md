@@ -21,7 +21,7 @@
 <img src="https://assets-global.website-files.com/5eff9c5e4dba181f8aa2d1e0/5f4ea1d749981847d388b2ca_ezgif.com-optimize%20(1).gif" width="700">
   
 
-### Connect with me:
+### ```Connect with me:```
 
   
 
@@ -64,7 +64,7 @@
 
   
 
-### Languages and Tools I use:
+### ```Languages and Tools I use:```
 
   
 
@@ -107,11 +107,11 @@
 
 
  
- ### Github stats   
+ ###``` Github stats ```  
 
 
  ![nish](https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthprabhu2&layout=compact&hide=html&theme=merko)<img src="https://github-readme-streak-stats.herokuapp.com/?user=nishanthprabhu2&theme=dark" width="350">
-  ##### Profile Views:
+  #####``` Profile Views:```
   ### ![nish](https://profile-counter.glitch.me/{nishanthprabhu2}/count.svg)
 
 
@@ -119,7 +119,7 @@
 
 <br/>
 
-###  Watch my contribution graph get eaten by the snake 🐍
+### ``` Watch my contribution graph get eaten by the snake 🐍```
 
 <!-- platane/snk works, it just puts it on a new branch -->
 ![nishanthprabhu2 snake gif](https://github.com/Nishanthprabhu2/Nishanthprabhu2/blob/output/github-contribution-grid-snake.gif)
