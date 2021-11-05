@@ -98,14 +98,15 @@
 
 <br  />
 
-### Github stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nishanthprabhu2&theme=dark" width="700">
+
 
 
 <br/>
 
 <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthprabhu2&layout=compact&hide=html&theme=merko"/>
-  
+ 
+ ### Github stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nishanthprabhu2&theme=dark" width="700">
 
 Views:
 
