@@ -107,11 +107,11 @@
 
 
  
- ###``` Github stats ```  
+ ### ```Github stats ```  
 
 
  ![nish](https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthprabhu2&layout=compact&hide=html&theme=merko)<img src="https://github-readme-streak-stats.herokuapp.com/?user=nishanthprabhu2&theme=dark" width="350">
-  #####``` Profile Views:```
+  ##### ``` Profile Views:```
   ### ![nish](https://profile-counter.glitch.me/{nishanthprabhu2}/count.svg)
 
 
