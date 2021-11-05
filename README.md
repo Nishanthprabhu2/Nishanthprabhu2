@@ -18,7 +18,7 @@
 
 - 💬 Ask me about Tech-related stuff.
 
-<img src="https://assets-global.website-files.com/5eff9c5e4dba181f8aa2d1e0/5f4ea1d749981847d388b2ca_ezgif.com-optimize%20(1).gif" width="700">
+[comment]: <> <img src="https://assets-global.website-files.com/5eff9c5e4dba181f8aa2d1e0/5f4ea1d749981847d388b2ca_ezgif.com-optimize%20(1).gif" width="700">
   
 
 ### ```Connect with me:```
