@@ -1,9 +1,10 @@
 
+
 # Hello! 👋
 
   
 
-## I'm a frontend developer and a learner.
+## ```I'm a frontend developer and a learner.```
 
   
 
@@ -106,18 +107,15 @@
 
 
  
- ### Github stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nishanthprabhu2&theme=dark" width="350"> <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthprabhu2&layout=compact&hide=html&theme=merko" width="300" />
+ ### Github stats   
+
+
+ ![nish](https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthprabhu2&layout=compact&hide=html&theme=merko)<img src="https://github-readme-streak-stats.herokuapp.com/?user=nishanthprabhu2&theme=dark" width="350">
+  ##### Profile Views:
+  ### ![nish](https://profile-counter.glitch.me/{nishanthprabhu2}/count.svg)
+
 
 <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=nishanthprabhu2&count_private=true&show_icons=true&theme=radical" width="700"/>
-
-### Views:
-
-<img  align="center"  src="https://profile-counter.glitch.me/{nishanthprabhu2}/count.svg" width="700"/>
-
-  
-
-
 
 <br/>
 
