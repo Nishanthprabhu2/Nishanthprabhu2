@@ -9,13 +9,13 @@
 
   
 
-- 🌱 I’m a Javascript Enthusiast
+- 🌱 I’m a Javascript Enthusiast.
 
-- 💻 Senior Frontend Dev at <a  href="https://www.linkedin.com/company/glassbeam-inc">Glassbeam </a>
+- 💻 Senior Frontend Dev at <a  href="https://www.linkedin.com/company/glassbeam-inc">Glassbeam </a>.
 
 - 🥅 2021 Goals: Experiment, learn and build stuffs with my skillsets.
 
-- ⚡ Believe in Hardwork
+- ⚡ Believe in Hardwork.
 
 - 💬 Ask me about Tech-related stuff.
 
@@ -115,7 +115,7 @@
 
 
  ![nish](https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthprabhu2&layout=compact&hide=html&theme=merko) <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishanthprabhu2&theme=dark" width="417" height="164">
-  ##### ``` Profile Views:```
+  ### ``` Profile Views:```
   ### ![nish](https://profile-counter.glitch.me/{nishanthprabhu2}/count.svg)
 
 
