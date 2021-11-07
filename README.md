@@ -3,6 +3,14 @@
 
 # Hello! 👋
 
+
+ 
+
+> **❝Easier battles will never improve you. When the going gets tough,**
+> **tough gets going.❞**
+
+
+
   
 
 ## ```I'm a frontend developer and a learner.```
@@ -19,7 +27,7 @@
 
 - 💬 Ask me about Tech-related stuff.
 
-
+- React Explorer  <br />  <img alt="Nishanth Prabhu | Linkedin"  src="https://3ulsmb4eg8vz37c0vz2si64j-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/react-native-UX-design.gif" width ="300" Height = "200" />
   
 
 
@@ -115,7 +123,7 @@
 
 
  ![nish](https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthprabhu2&layout=compact&hide=html&theme=merko) <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishanthprabhu2&theme=dark" width="417" height="164">
-  ### ``` Profile Views:```
+  ##### ``` Profile Views:```
   ### ![nish](https://profile-counter.glitch.me/{nishanthprabhu2}/count.svg)
 
 
