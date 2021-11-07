@@ -19,7 +19,7 @@
 
 - 💬 Ask me about Tech-related stuff.
 
-- React Explorer  <br />  <img alt="Nishanth Prabhu | Linkedin"  src="https://3ulsmb4eg8vz37c0vz2si64j-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/react-native-UX-design.gif" width ="300" Height = "200" />
+
   
 
 
