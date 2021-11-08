@@ -133,10 +133,10 @@
 <!-- platane/snk works, it just puts it on a new branch -->
 ![nishanthprabhu2 snake gif](https://github.com/Nishanthprabhu2/Nishanthprabhu2/blob/output/github-contribution-grid-snake.gif)
 
-### Favourite Quote
+### ```Favourite Quote```
 
-> **❝Easier battles will never improve you. When the going gets tough,**
-> **tough gets going.❞**
+> ```❝``` **Easier battles will never improve you. When the going gets tough,**
+> **tough gets going. ** ```❞``
   
 
 ---
