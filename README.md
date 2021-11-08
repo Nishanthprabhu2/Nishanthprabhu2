@@ -136,7 +136,7 @@
 ### ```Favourite Quote```
 
 > ```❝``` **Easier battles will never improve you. When the going gets tough,**
-> **tough gets going. ** ```❞``
+> **tough gets going. ** ```❞```
   
 
 ---
