@@ -27,9 +27,6 @@
 - 💬 Ask me about Tech-related stuff.
   
 
-
-
-
 ### ```Connect with me:```
 
   
