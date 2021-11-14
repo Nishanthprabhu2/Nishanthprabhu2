@@ -1,10 +1,6 @@
+# <h2 align="center">Hello! 👋  </h2>
 
-
-
-# Hello! 👋 
-
- 
-<h3 align="center">Javascript Enthusiast | Frontend Dev</h3>
+<h2 align="center">Javascript Enthusiast | Frontend Dev</h2>
 <h4 align="center"<a href="https://github.com/karan36k" target="_blank"><p align="center"> <img src="https://komarev.com/ghpvc/?username=nishanthprabhu2&label=Profile%20views&color=129e00&style=plastic" alt="karan39k" /> </p></h4>
 
   
@@ -18,9 +14,11 @@
 - ⚡ Believe in Hardwork.
 
 - 💬 Ask me about Tech-related stuff.
-  
+ <!--  
+<h2 align="center">Talented folks I work with</h2>
+<h4> @github/nish-code </h4>  --> 
 
-### ```Connect with me:```
+<h2 align="center">Connect with me:</h2>
 
   
 
