@@ -111,7 +111,7 @@
   ### ![nish](https://profile-counter.glitch.me/{nishanthprabhu2}/count.svg)
 
 
-<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=nishanthprabhu2&count_private=true&show_icons=true&theme=radical" width="700"/>
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=nishanthprabhu2&count_private=true&show_icons=true&theme=radical" />
 
 <br/>
 <img   src="https://activity-graph.herokuapp.com/graph?username=nishanthprabhu2&theme=xcode"/>
