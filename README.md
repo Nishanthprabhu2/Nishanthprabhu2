@@ -65,8 +65,6 @@
 
   
 
-
-
 <img  align="left"  alt="HTML5"  width="30px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"  />
 
 <img  align="left"  alt="CSS3"  width="30px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"  />
@@ -93,8 +91,6 @@
 
 <img  align="left"  alt="Visual Studio Code"  width="30px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"  />
 
-  
-
 <br  />
 
 
@@ -111,7 +107,7 @@
   ### ![nish](https://profile-counter.glitch.me/{nishanthprabhu2}/count.svg)
 
 
-<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=nishanthprabhu2&count_private=true&show_icons=true&theme=radical" />
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=nishanthprabhu2&count_private=true&show_icons=true&theme=radical" width="1000"/>
 
 <br/>
 <img   src="https://activity-graph.herokuapp.com/graph?username=nishanthprabhu2&theme=xcode"/>
