@@ -4,7 +4,8 @@
 # Hello! 👋 
 
  
-<h4 align="center">Javascript Enthusiast | Frontend Dev</h4>
+<h3 align="center">Javascript Enthusiast | Frontend Dev</h3>
+<h4 align="center"<a href="https://github.com/karan36k" target="_blank"><p align="center"> <img src="https://komarev.com/ghpvc/?username=nishanthprabhu2&label=Profile%20views&color=129e00&style=plastic" alt="karan39k" /> </p></h4>
 
   
 
@@ -115,6 +116,7 @@
 <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=nishanthprabhu2&count_private=true&show_icons=true&theme=radical" width="700"/>
 
 <br/>
+<img   src="https://activity-graph.herokuapp.com/graph?username=nishanthprabhu2&theme=xcode"/>
 
 ### ``` Watch my contribution graph get eaten by the snake 🐍```
 
