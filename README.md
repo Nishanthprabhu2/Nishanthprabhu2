@@ -3,9 +3,8 @@
 
 # Hello! 👋 
 
-  
-
-## ```I'm a frontend developer and a learner.```
+ 
+<h4 align="center">Javascript Enthusiast | Frontend Dev</h4>
 
   
 
