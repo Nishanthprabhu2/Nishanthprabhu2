@@ -1,7 +1,6 @@
-# <h2 align="center">Hello! 👋  </h2>
-
-<h2 align="center">Javascript Enthusiast | Frontend Dev</h2>
-<h4 align="center"<a href="https://github.com/karan36k" target="_blank"><p align="center"> <img src="https://komarev.com/ghpvc/?username=nishanthprabhu2&label=Profile%20views&color=129e00&style=plastic" alt="karan39k" /> </p></h4>
+# <p align="center">Hello! 👋  </p>
+## <p align="center"> ```Javascript Enthusiast | Frontend Dev``` </p>
+<h4 align="center"<a href="https://github.com/nishanthprabhu2" target="_blank"><p align="center"> <img src="https://komarev.com/ghpvc/?username=nishanthprabhu2&label=Profile%20views&color=129e00&style=plastic" alt="karan39k" /> </p></h4>
 
   
 
@@ -55,7 +54,6 @@
 
 <br/>
 
-  
 
 <br  />
 
@@ -117,7 +115,7 @@
 <!-- platane/snk works, it just puts it on a new branch -->
 ![nishanthprabhu2 snake gif](https://github.com/Nishanthprabhu2/Nishanthprabhu2/blob/output/github-contribution-grid-snake.gif)
 
-### ```Favourite Quote```
+### <h2 align = "center">```Favourite Quote```</h2>
 
 > ```❝``` **Easier battles will never improve you. When the going gets tough,**
 > **tough gets going.** ```❞```
