@@ -8,7 +8,7 @@
 
 - 💻 Senior Frontend Dev at <a  href="https://www.linkedin.com/company/glassbeam-inc">Glassbeam </a>.
 
-- 🥅 2021 Goals: Experiment, learn and build stuffs with my skillsets.
+- 🥅 2021 Goals: Experiment, learn and build stuffs | Repeat.
 
 - ⚡ Believe in Hardwork.
 
