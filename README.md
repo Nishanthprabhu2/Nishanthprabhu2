@@ -59,8 +59,8 @@
 
   
 
-### ```Languages and Tools I use:```
-
+<!-- ### ```Languages and Tools I use:``` -->
+<h2 align="center">Languages and Tools:</h2>
   
 
 <img  align="left"  alt="HTML5"  width="30px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"  />
@@ -97,8 +97,8 @@
 
 
  
- ### ```Github stats ```  
-
+<!--  ### ```Github stats ```   -->
+<h2 align="center">Github stats:</h2>
 
  ![nish](https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthprabhu2&layout=compact&hide=html&theme=merko) <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishanthprabhu2&theme=dark" width="417" height="164">
   ##### ``` Profile Views:```
