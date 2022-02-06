@@ -12,6 +12,8 @@
 
 - ⚡ Believe in Hardwork.
 
+- 2022: Advanced React, Micro-frontends, Frontend-Architecture, DSA
+
 - 💬 Ask me about Tech-related stuff.
  <!--  
 <h2 align="center">Talented folks I work with</h2>
