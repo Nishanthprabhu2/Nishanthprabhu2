@@ -12,7 +12,7 @@
 
 - ⚡ Believe in Hardwork.
 
-- 2022: Advanced React, Micro-frontends, Frontend-Architecture, DSA
+- 2022: Advanced React, Micro-frontends, Frontend-Architecture, System design 
 
 - 💬 Ask me about Tech-related stuff.
  <!--  
