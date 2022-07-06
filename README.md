@@ -12,7 +12,7 @@
 
 - ⚡ Believe in Hardwork.
 
-- 2022: Advanced React, Micro-frontends, Frontend-Architecture, System design, Design system, Figma, Angular 
+- Learning: Micro-frontends, Frontend-Architecture, Figma, Angular, Docker
 
 - 💬 Ask me about Tech-related stuff.
  <!--  
