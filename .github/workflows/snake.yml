@@ -6,7 +6,7 @@ name: Generate Snake
 
 on:
   schedule:
-      # Runs at 00:00 UTC on the 1 and 18th of every month.
+      # Runs at 00:00 UTC on the 1 and 18th of every month optimized to run less frequently.
     - cron: "0 0 */17 * *"
 
 # This command allows us to run the Action automatically from the Actions tab.
