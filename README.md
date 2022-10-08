@@ -112,15 +112,15 @@
   ### ![nish](https://profile-counter.glitch.me/{nishanthprabhu2}/count.svg) -->
 
 
-<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=nishanthprabhu2&count_private=true&show_icons=true&theme=radical" width="1000"/>
+<!--<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=nishanthprabhu2&count_private=true&show_icons=true&theme=radical" width="1000"/> -->
 
 <br/>
 <img   src="https://activity-graph.herokuapp.com/graph?username=nishanthprabhu2&theme=xcode"/>
 
-### ``` Watch my contribution graph get eaten by the snake 🐍```
+<!--### ``` Watch my contribution graph get eaten by the snake 🐍``` -->
 
 <!-- platane/snk works, it just puts it on a new branch -->
-![nishanthprabhu2 snake gif](https://github.com/Nishanthprabhu2/Nishanthprabhu2/blob/output/github-contribution-grid-snake.gif)
+<!--![nishanthprabhu2 snake gif](https://github.com/Nishanthprabhu2/Nishanthprabhu2/blob/output/github-contribution-grid-snake.gif) -->
 
 ### <h2 align = "center">```Favourite Quote```</h2>
 
