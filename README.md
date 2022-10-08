@@ -112,10 +112,10 @@
   ### ![nish](https://profile-counter.glitch.me/{nishanthprabhu2}/count.svg) -->
 
 
-<!--<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=nishanthprabhu2&count_private=true&show_icons=true&theme=radical" width="1000"/> -->
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=nishanthprabhu2&count_private=true&show_icons=true&theme=radical" width="1000"/> 
 
 <br/>
-<img   src="https://activity-graph.herokuapp.com/graph?username=nishanthprabhu2&theme=xcode"/>
+<!--<img   src="https://activity-graph.herokuapp.com/graph?username=nishanthprabhu2&theme=xcode"/> -->
 
 <!--### ``` Watch my contribution graph get eaten by the snake 🐍``` -->
 
