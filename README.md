@@ -3,7 +3,7 @@
 <h4 align="center"<a href="https://github.com/nishanthprabhu2" target="_blank"><p align="center"> <img src="https://komarev.com/ghpvc/?username=nishanthprabhu2&label=Profile%20views&color=129e00&style=plastic" alt="karan39k" /> </p></h4>
 
   
-
+<!--
 - 🌱 I’m a Javascript Enthusiast.
 
 - 💻 Senior Frontend Dev at <a  href="https://www.linkedin.com/company/glassbeam-inc">Glassbeam </a>.
@@ -12,7 +12,7 @@
 
 - ⚡ Believe in Hardwork.
 
-- Learning: Micro-frontends, Frontend-Architecture, Module federation, Webpack, Figma, Docker, CI/CD, Kubernetes
+- Learning: Micro-frontends, Frontend-Architecture, Module federation, Webpack, Figma, Docker, CI/CD, Kubernetes -->
 
 - 💬 Ask me about Tech-related stuff.
  <!--  
