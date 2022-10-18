@@ -14,7 +14,7 @@
 
 - Learning: Micro-frontends, Frontend-Architecture, Module federation, Webpack, Figma, Docker, CI/CD, Kubernetes -->
 
-<!-- 💬 Ask me about Tech-related stuff. -->
+ 💬 Ask me about Tech-related stuff.
  <!--  
 <h2 align="center">Talented folks I work with</h2>
 <h4> @github/nish-code </h4>  --> 
