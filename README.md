@@ -126,7 +126,7 @@
 
 ### CI/CD
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-### <h2 align = "center">```Favourite Quote```</h2>
+
 
 ### Frameworks, Platforms and Libraries
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -139,6 +139,7 @@
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
+### <h2 align = "center">```Favourite Quote```</h2>
 > ```❝``` **Easier battles will never improve you. When the going gets tough,**
 > **tough gets going.** ```❞```
   
