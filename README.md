@@ -64,7 +64,7 @@
 
 <br  />
 
- ## Hashnode Blog Post
+ ## Blog Posts
 <!-- HASHNODE:START -->
 - [Recursion in javascript](https://nishanthprabhu.hashnode.dev/recursion-in-javascript)
 <!-- HASHNODE:END -->
