@@ -66,6 +66,7 @@
 
  ## Blog Posts
 <!-- HASHNODE:START -->
+- [Using Mutation Observers in JavaScript](https://nishanthprabhu.hashnode.dev/using-mutation-observers-in-javascript)
 - [Using Dynamic Imports in JavaScript for Improved Performance](https://nishanthprabhu.hashnode.dev/using-dynamic-imports-in-javascript-for-improved-performance)
 - [Recursion in javascript](https://nishanthprabhu.hashnode.dev/recursion-in-javascript)
 <!-- HASHNODE:END -->
