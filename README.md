@@ -150,9 +150,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-<h2 align = "center">```Favourite Quote```</h2>
+<!--<h2 align = "center">```Favourite Quote```</h2>
 > ```❝``` **Easier battles will never improve you. When the going gets tough,**
-> **tough gets going.** ```❞```
+> **tough gets going.** ```❞```-->
   
 
 ---
