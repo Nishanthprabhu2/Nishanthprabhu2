@@ -8,7 +8,7 @@
 
 
 
-- 🥅 2022 Goals: Experiment, learn and build stuffs | Repeat.
+- 🥅 2023 Goals: Experiment, learn and build stuffs | Repeat.
 
 - ⚡ Believe in Hardwork.
 
