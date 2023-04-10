@@ -12,7 +12,7 @@
 
 - ⚡ Believe in Hardwork.
 
-- Learning: Micro-frontends, Frontend-Architecture, Module federation, Webpack, Figma, Docker, CI/CD, Kubernetes -->
+- Learning: Micro-frontends, Frontend-Architecture, Webpack, Figma, Docker, CI/CD, Kubernetes -->
 
 <!--  💬 Ask me about Tech-related stuff. -->
  <!--  
