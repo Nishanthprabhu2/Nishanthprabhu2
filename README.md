@@ -112,7 +112,8 @@
 
 
  
-<!--  ### ```Github stats ```   -->
+<!--  ### ```Github stats ```   
+<!--
 <h2 align="center">Github stats:</h2>
 
  <!--![nish](https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthprabhu2&layout=compact&hide=html&theme=merko)-->
@@ -130,9 +131,9 @@
 
 <!-- platane/snk works, it just puts it on a new branch -->
 <!--![nishanthprabhu2 snake gif](https://github.com/Nishanthprabhu2/Nishanthprabhu2/blob/output/github-contribution-grid-snake.gif) -->
-# Technologies
+<!--## Technologies
 
-### CI/CD
+## CI/CD
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 
@@ -140,7 +141,7 @@
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-<!--![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)-->
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -150,11 +151,11 @@
 ### Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) -->
 
--<h2 align = "center">```Favourite Quote```</h2>
+<!--#<h2 align = "center">```Favourite Quote```</h2>
 > ```❝``` **Easier battles will never improve you. When the going gets tough,**
-> **tough gets going.** ```❞``` 
+> **tough gets going.** ```❞```  -->
   
 
 ---
