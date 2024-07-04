@@ -19,7 +19,7 @@
 <h2 align="center">Talented folks I work with</h2>
 <h4> @github/nish-code </h4>  --> 
 
-<h2 align="center">Connect with me:</h2>
+<!--<h2 align="center">Connect with me:</h2>
 
   
 
@@ -56,7 +56,7 @@
 
 <img  align="left"  alt="Nishanth Prabhu | StackOverflow"  src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"  />
 
-</a>
+</a> -->
 
 
 <br/>
