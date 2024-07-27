@@ -64,14 +64,7 @@
 
 <br  />
 
- ## Blog Posts
-<!-- HASHNODE:START -->
-- [Implement a Cache with Time-to-Live &lpar;TTL&rpar;](https://nishanthprabhu.hashnode.dev/implement-a-cache-with-time-to-live-ttl)
-- [Head-First Functional Programming in Javascript](https://nishanthprabhu.hashnode.dev/head-first-functional-programming-in-javascript)
-- [JavaScript implementation of the Publish-Subscribe Pattern using ES6](https://nishanthprabhu.hashnode.dev/javascript-implementation-of-the-publish-subscribe-pattern-using-es6)
-- [Using Mutation Observers in JavaScript](https://nishanthprabhu.hashnode.dev/using-mutation-observers-in-javascript)
-- [Using Dynamic Imports in JavaScript for Improved Performance](https://nishanthprabhu.hashnode.dev/using-dynamic-imports-in-javascript-for-improved-performance)
-<!-- HASHNODE:END -->
+
 
 
 <!-- ### ```Languages and Tools I use:``` 
